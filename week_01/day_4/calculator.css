@@ -1,0 +1,71 @@
+body{
+	
+		background-color:green;
+		margin-left:37%;
+		margin-top:10%;
+		
+	}
+	
+	.white{
+	
+		background-color:white;
+		
+	}
+	
+	.yellow{
+	
+		background-color:yellow;
+		
+	}
+	
+	.skyblue{
+	
+		background-color:skyblue;
+	}
+	
+	.orange{
+	
+		background-color:orange;
+	}
+	
+	.silver{
+	
+		background-color:silver;
+		padding:10px;
+	}
+	
+	.inbox{
+		display:flex;
+		padding:10px;
+		margin-left:10px;
+		
+		
+	}
+	
+	.container{
+	
+		width:370px;
+		padding:3px;
+		text-align:center;
+	
+	}
+	
+	.display{
+		
+		padding:28px;
+		margin:2%;
+	
+	}
+	.number{
+	
+		padding: 25px 31px;
+		margin-left:-10px;
+		margin-right:30px;
+		font-size:20px;
+	}
+	.moreSpace{
+	
+		padding:25px 33px;
+	}
+	
+	

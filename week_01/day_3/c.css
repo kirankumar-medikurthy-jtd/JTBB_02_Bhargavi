@@ -1,0 +1,40 @@
+body{
+	background:Linear-gradient(to right,#aa16e8,#d816e8,#e81672);
+}
+
+.a{
+      		padding:20%;
+      		margin-left:30%;
+      		margin-top:-5%;
+      		color:white;
+      		font-size:25px;
+      }
+      .b{
+      		margin-left:50%;
+      		margin-top:-19%;
+      		color:white;
+      		font-size:25px;
+      }
+     button{
+      		margin-left:980px;
+      		margin-top:2%;
+      		color:white;
+      		font-size:25px;
+      		text-align:center;
+      		border:2px solid white;
+		background:Linear-gradient(to right,#d816e8,#d816e8);
+      		
+      		
+      }
+      .d{
+      		margin-left:320px;
+      		margin-top:2%;
+      		color:white;
+      		font-size:20px;
+      		text-align:center;
+      		
+		
+      		
+      		
+      }
+      </style>
