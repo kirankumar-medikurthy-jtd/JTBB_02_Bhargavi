@@ -1,0 +1,397 @@
+
+	.firstpage
+	{
+		background:Linear-gradient(to right,#CC338B,#C71585,#583759);
+		padding:30px 100px 30px 80px;
+		
+	}
+	.white{
+		color:white;
+	}
+	.home{
+		display:flex;
+	}
+	.name{
+		
+		margin-right:780px;
+		margin-top:20px;
+		margin-left:3px;
+		width:5px;
+		height:5px;
+		
+	
+	}
+	.headtop{
+		display:flex;
+	}
+	.topmassage:hover{
+		text-decoration:underline;
+		color:#ff0080;
+		
+	}
+	.topmassage{
+		
+		font-size:20px;
+		margin-top:30px;
+		
+	}
+	.topmassage a{
+		text-decoration:none;
+		
+		
+	}
+	
+	.empty{
+		margin:20px;
+	}
+	.title{
+		margin-top:200px;
+		font-size:70px;
+		margin-left:3px;
+	}
+	.subtitle{
+		font-size:28px;
+		margin-left:3px;	
+	}
+	.subhead{
+		display:flex;
+	}
+	.imgwidth{
+		width:600px;
+		height:600px;
+		margin-top:40px;
+		margin-left:80px;
+	}
+	.GetApp{
+		background-color: rgba(0, 0, 0 , 0);
+		border-color :#FA2A55;
+		background-color:#FA2A55;
+		color: white;
+		margin-left:7px;
+		padding: 20px 25px;
+		border-radius: 5px;
+		margin-top: 20px;
+		font-size: 16px;
+		
+	}
+	input:hover{
+		background-color:white;
+		color:#646D7E;
+		border-color:white;
+		
+	}
+	.downarrow{
+		margin-top:-40px;
+		margin-left:600px;
+	}
+	.secondpage{
+	        padding:30px 100px 70px 80px;
+	        background-color:#2C3539;
+		margin-left:1px;
+	        
+	}
+	
+	
+	.massage{
+		font-size:45px;
+		text-align:center;
+		font-weight:bold;
+		margin-bottom:30px;
+	}
+	.small{
+		font-size:17px;
+		text-align:center;
+		margin-top:70px;
+		margin-bottom:30px;
+		
+	}
+	.imgwidth1
+	{
+		width:1300px;
+		height:600px;
+		margin-bottom:-70px;
+	}
+	.black{
+		color:black;
+	}
+	.partOne{
+		display:flex;
+	}
+	.smalltext{
+		font-size:17px;
+		color:#646D7E;
+		margin-top:280px;
+		margin-bottom:17px;
+		margin-left:250px;
+		margin-right:90px;
+	}
+	.boldtext{
+		font-size:40px;
+		margin-left:250px;
+		font-weight:bold;
+		margin-bottom:20px;
+		margin-right:90px;
+	
+	}
+	.mediumtext{
+		font-size:18px;
+		margin-left:250px;
+		margin-bottom:7px;
+		margin-right:90px;
+		color:#646D7E;
+	}
+	.imageOfFood{
+		width:340px;
+		height:610px;
+		margin-top:90px;
+		margin-left:90px;
+	}
+	.partTwo{
+		display:flex;
+	}
+	.percentage{
+		width:390px;
+		height:480px;
+		margin-top:180px;
+		margin-left:280px;
+		margin-right:-80px;
+		
+	}
+	.partThree{
+		display:flex;
+	}
+	.ingredients{
+		width:340px;
+		height:500px;
+		margin-top:140px;
+		margin-left:90px;
+	}
+	.imagess{
+		display:flex;
+	}
+	.food{
+		margin-top:170px;
+		margin-left:100px;
+		margin-right:100px;
+	
+	}
+	.empties{
+		margin:150px 150px 0px 100px;
+	}
+	.text1{
+		display:flex;
+	}
+	.image3{
+		font-size:22px;
+		font-weight:bold;
+		text-align:center;
+		margin-left:120px;
+		margin-right:100px;
+	}
+	.info{
+		
+		text-align:center;
+		margin-right:50px;
+		margin-left:93px;
+		
+		color:#646D7E;
+	
+	}
+	.number{
+		display:flex;
+	}
+	.number1{
+		font-size:77px;
+		margin-top:170px;
+		text-align:center;
+		margin-left:215px;
+		margin-right:-25px;
+		margin-bottom:10px;
+
+	}
+	.line{
+		display:flex;
+	}
+	.line1{
+		font-size:22px;
+		font-weight:bold;
+		margin-left:190px;
+		text-align:center;
+		margin-right:-50px;
+		
+		
+	
+		
+	}
+	.fourthFirst{
+		display:flex;
+	}
+	.fourthPageImage{
+		margin-top:140px;
+		margin-left:30px;
+	}
+	.fourthSecond{
+		display:flex;
+	}
+	.fourthPage2Image{
+		margin-left:180px;
+		margin-top:110px;
+	}
+	.smalltexts{
+		font-size:17px;
+		color:#646D7E;
+		margin-top:130px;
+		margin-bottom:17px;
+		margin-left:180px;
+		margin-right:100px;
+		
+	}
+	.boldtexts{
+		font-size:40px;
+		margin-left:180px;
+		font-weight:bold;
+		margin-bottom:20px;
+		margin-right:100px;
+	}
+	.mediumtexts {
+		font-size:18px;
+		margin-left:180px;
+		margin-bottom:7px;
+		margin-right:100px;
+		color:#646D7E;
+	}
+	.quotation{
+		width:60px;
+		height:60px;
+		margin-left:740px;
+		margin-top:150px;
+		margin-bottom:70px;
+	}
+	.mediummassage{
+		font-size:25px;
+		margin-left:250px;
+		margin-bottom:7px;
+		margin-right:90px;
+		color:#646D7E;
+		text-align:center;
+	}
+	.mediummsg{
+		font-size:19px;
+		color:#646D7E;
+		margin-top:40px;	
+		text-align:center;
+		margin-left:90px;
+	}
+	.logo{
+		margin-top:80px;
+		margin-left:100px;
+	}
+	.logos{
+		width:1430px;
+		height:500px;
+		margin-left:-100px;
+	}
+	.download{
+		text-align:center;
+		font-size:50px;
+		color:white;
+		padding:190px;
+		background:Linear-gradient(to right,#CC338B,#C71585,#583759);
+		
+	}
+	.download1{
+		display:flex;
+	
+	}
+	.downloadNow{
+		background-color: rgba(0, 0, 0 , 0);
+		border-color :#FA2A55;
+		background-color:#FA2A55;
+		color: white;
+		
+		padding: 20px 25px;
+		border-radius: 5px;
+		margin-top: 20px;
+		font-size: 16px;
+		margin-left:360px;
+	}
+	.GetInTouch{
+		background-color: rgba(0, 0, 0 , 0);
+		background:Linear-gradient(to right,#CC338B,#C71585,#C71585);
+		color: white;
+		padding: 20px 25px;
+		border-radius: 5px;
+		margin-top: 20px;
+		font-size: 16px;
+		
+	}
+	button:hover{
+		background-color:black;
+		color:white;
+		border-color:white;
+		
+	}
+	.final{
+		padding:100px;
+		background-color:#2C3539;
+	}
+	.lastline{
+		text-align:center;
+		font-size:50px;
+		color:white;
+		
+	}
+	.mail{
+		font-size:15px;
+		width:300px;
+		height:65px;
+		margin-left:380px;
+		border-radius:5px;
+	}
+	input:hover {
+		border:2px solid red;
+	}
+	.final1{
+		display:flex;
+	}
+	.Subscribe{
+	
+		border-color :#FA2A55;
+		background-color:#FA2A55;
+		color: white;
+	
+		width:180px;
+		height:65px;
+		border-radius: 5px;
+		
+		font-size: 16px;
+		margin-bottom:80px;
+	
+	}
+	.lasttext{
+		color:#646D7E;
+		text-align:center;
+		margin-top:30px;
+		margin-bottom:40px;
+		font-size:20px;
+	}
+	.lastImage{
+		margin-left:400px;
+		
+	}
+	.lastline2{
+		display:flex;
+	}
+	.lasttext1{
+		color:#646D7E;
+		font-size:13px;
+		margin-left:375px;
+		margin-right:-350px;
+		margin-bottom:30px;
+		
+	}
+
+	.lasttext1 a{
+		text-decoration:none;
+	}
+	
